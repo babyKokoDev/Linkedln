@@ -1,0 +1,86 @@
+.symbols{
+    display: none;
+}
+
+.logo{
+    scale: 0.9;
+}
+
+.navbar{
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.signup{
+    scale: 0.9;
+}
+.container{
+    align-items: center;
+}
+
+.container__body{
+    flex-direction: column;
+    align-items: center;
+}
+
+.container1{
+    width: 100%;
+}
+
+.input__style{
+width: 90%;
+
+}
+
+.input__style1{
+    width: 90%;
+
+}
+
+.sign__in1{
+   width: 90%;
+
+}
+
+.src1{
+    width: 300px;
+}
+
+h2.exp{
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.container__body2{
+flex-direction: column;
+gap: 20px;
+}
+
+.container__body3{
+    flex-direction: column-reverse;
+    gap: 20px;
+    align-items: center;
+}
+
+img.arturo{
+    width: 300px;
+}
+
+.container__body4{
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer__body{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+ }
+
+ .logo1{
+    margin-left: -5px;
+ }
+
+
